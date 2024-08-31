@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: pawanpucha603@gmail.com or you can text me in GitHub
 - 😄 Pronouns: He
-- ⚡ Fun fact: I an A strategic thinker
+- ⚡ Fun fact: I am A strategic thinker
 
 <!---
 PuchaPawan/PuchaPawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
